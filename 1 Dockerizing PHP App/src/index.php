@@ -1,2 +1,2 @@
 <?php
-echo "Hello from a Dockerized Application, this works immediately";
+echo "Hello World from a Dockerized PHP Application!";
