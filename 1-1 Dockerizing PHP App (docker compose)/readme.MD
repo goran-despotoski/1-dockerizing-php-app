@@ -4,4 +4,4 @@ Dear visitor, this is an example source code provided as part of my series on my
 
 Everything you need to know how to get to this point in time is provided in the original blog post here: 
 
-@todo
+https://gorandespotoski.com/posts/11-dockerizing-php-applications-part-2-using-docker-compose
